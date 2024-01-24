@@ -1,0 +1,34 @@
+.size {
+    width: 100%;
+    height: 100px;
+}
+
+.yellow {
+
+    background-color: yellow;
+}
+
+.red {
+    position: fixed;
+    background-color: red;
+    top: 50px;
+    left: 100px;
+}
+
+.green {
+
+    background-color: green;
+}
+
+.blue {
+
+    background-color: blue;
+}
+
+.container {
+    /* height: 200px ; */
+    width: 100%;
+    border: 2px solid black;
+    /* overflow: scroll; */
+    /* position: relative; */
+}
